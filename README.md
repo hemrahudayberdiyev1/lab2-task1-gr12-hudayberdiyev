@@ -8,4 +8,4 @@ Please, edit README and add some details, as instance **{Hudayberdiyev Hemraberd
 
 # Building
 
-* [Githup](https://github.com/hemrahudayberdiyev1/lab2-task1-gr12-hudayberdiyev/blob/master/src/main.c)
+* [Github](https://github.com/hemrahudayberdiyev1/lab2-task1-gr12-hudayberdiyev/blob/master/src/main.c)
